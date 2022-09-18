@@ -1,0 +1,52 @@
+#root {
+  background-color: #eaedef;
+  min-height: 100vh;
+}
+
+#first-row {
+  height: 207px;
+}
+
+#second-row {
+  height: 500px;
+}
+
+#user_form {
+  height: 100%;
+}
+
+#product_form {
+  height: 100%;
+}
+
+#user_list {
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#product_list {
+  height: 100%;
+  overflow-y: auto;
+}
+
+#money_transfer {
+  height: 50%;
+}
+
+#product_transfer {
+  height: 50%;
+}
+
+#user_detail_cover {
+  background: rgba(255, 255, 255, 0.6);
+}
+
+#user_detail {
+  height: 500px;
+  overflow-y: auto;
+}
+
+#detail_close_button {
+  float: right;
+}
