@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/219-Akbank-React-Bootcamp/tree/main/beyza_koroglu_hafta4odev/static/css/main.3fd5ccbf.css",
+    "main.js": "/219-Akbank-React-Bootcamp/tree/main/beyza_koroglu_hafta4odev/static/js/main.e927e4ca.js",
+    "static/js/787.30707394.chunk.js": "/219-Akbank-React-Bootcamp/tree/main/beyza_koroglu_hafta4odev/static/js/787.30707394.chunk.js",
+    "index.html": "/219-Akbank-React-Bootcamp/tree/main/beyza_koroglu_hafta4odev/index.html",
+    "main.3fd5ccbf.css.map": "/219-Akbank-React-Bootcamp/tree/main/beyza_koroglu_hafta4odev/static/css/main.3fd5ccbf.css.map",
+    "main.e927e4ca.js.map": "/219-Akbank-React-Bootcamp/tree/main/beyza_koroglu_hafta4odev/static/js/main.e927e4ca.js.map",
+    "787.30707394.chunk.js.map": "/219-Akbank-React-Bootcamp/tree/main/beyza_koroglu_hafta4odev/static/js/787.30707394.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd5ccbf.css",
+    "static/js/main.e927e4ca.js"
+  ]
+}
