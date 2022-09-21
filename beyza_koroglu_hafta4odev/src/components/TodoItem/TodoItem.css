@@ -1,0 +1,27 @@
+.TodoItem {
+  padding: 5px;
+  text-align: left;
+  border-width: 0 0 2px 0;
+  border-style: solid;
+  border-color: rgb(175, 175, 175);
+}
+
+.TodoItemRight {
+  float: right;
+}
+
+.TodoSelect {
+  height: 25px;
+  border-radius: 20px;
+  margin-right: 15px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  text-align: right;
+}
+
+.DeleteTodo {
+  border: none;
+  background-color: transparent;
+  margin-left: 20px;
+}
