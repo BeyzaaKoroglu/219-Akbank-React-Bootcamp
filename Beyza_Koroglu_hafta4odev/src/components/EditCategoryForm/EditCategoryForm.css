@@ -1,0 +1,74 @@
+.EditCategoryFormBackground {
+  position: absolute;
+  z-index: 1;
+  width: calc(100vw - 200px);
+  height: 100vh;
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+.EditCategoryForm {
+  background-color: white;
+  border: 2px solid rgb(175, 175, 175);
+  width: 500px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.EditCategoryForm > form > ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: left;
+}
+
+.EditCategoryFormLi {
+  width: 450px;
+  margin: auto;
+  padding: 0 15px;
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  border-color: rgb(175, 175, 175);
+}
+
+.EditCategoryInput {
+  width: 350px;
+  height: 25px;
+  border-style: none;
+  outline: none;
+  margin-top: 15px;
+}
+
+.StatuInput {
+  width: 250px;
+  height: 25px;
+  border-style: none;
+  outline: none;
+  margin-top: 15px;
+}
+
+.EditCategoryButton {
+  width: 100px;
+  height: 25px;
+  border-radius: 20px;
+  margin: 15px 5px 0;
+  border: 2px solid rgb(175, 175, 175);
+}
+
+.DeleteStatu {
+  border: none;
+  background-color: transparent;
+  margin-right: 0;
+  text-decoration-line: underline;
+  color: red;
+}
+
+.SelectColor {
+  width: 110px;
+  height: 25px;
+  border-radius: 20px;
+  border: 2px solid rgb(175, 175, 175);
+}
